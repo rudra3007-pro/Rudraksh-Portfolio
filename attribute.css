@@ -1,0 +1,131 @@
+.left {
+  font-size: 1.6rem;
+}
+
+.firstsection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 80px 0;
+}
+.firstsection div {
+  width: 43%;
+}
+.leftsection {
+  font-size: 2.6rem;
+}
+.leftsection .btn {
+  padding: 19px;
+  background-color: rgb(4, 4, 119);
+  color: white;
+  font-size: 22px;
+  border: 2px solid white;
+  border-radius: 22px;
+}
+
+.rightsection img {
+  width: 70%;
+  /* margin: 50px 0; */
+}
+.purple {
+  color: rgb(219, 50, 219);
+}
+#element {
+  color: rgb(228, 35, 228);
+}
+.secondSection {
+  max-width: 93vw;
+  margin: auto;
+  height: 80px;
+}
+.secondSection h1 {
+  font-size: 2.6rem;
+  margin-top: 42px;
+}
+.grey {
+  font-size: 1.5rem;
+  color: rgb(161, 104, 104);
+  font-weight: 700;
+  margin: auto;
+}
+.secondSection .box {
+  background: white;
+  width: 88vw;
+  height: 2px;
+  margin: 56px 0;
+  display: flex;
+}
+.secondSection .box1 {
+  background: white;
+  width: 88vw;
+  height: 2px;
+  margin: 56px 0;
+  display: flex;
+  gap: 121px;
+}
+.secondSection .box1h {
+  background: white;
+  width: 30vw;
+  height: 2px;
+  margin: 56px 0;
+  display: flex;
+  gap: 121px;
+}
+.secondSection .vertical {
+  height: 90px;
+  width: 2px;
+  background-color: white;
+  margin: 0 100px;
+}
+.image-top {
+  width: 39px;
+  position: relative;
+  top: -42px;
+}
+.vertical-title {
+  margin-top: 40px;
+  margin-left: -22px;
+  font-size: 20px;
+  color: #bd6cbd;
+}
+.vertical-titleh {
+  margin-top: 40px;
+  margin-left: -22px;
+  font-size: 20px;
+  color: #bd6cbd;
+  width: 249px;
+}
+.vertical-desc {
+  font-size: 12px;
+  display: block;
+  margin-left: -22px;
+  width: 185px;
+}
+.vertical-desc1 {
+  font-size: 17px;
+  display: block;
+  margin-left: -20px;
+  width: 185px;
+}
+.vertical-desc1h {
+  font-size: 17px;
+  display: block;
+  margin-left: -20px;
+  width: 296px;
+}
+
+.footer {
+  display: flex;
+  margin-top: 448px;
+  justify-content: space-evenly;
+}
+.buttons {
+  display: flex;
+  gap: 23px;
+  margin-top: 25px;
+}
+.btn:hover{
+  background-color: white;
+  color: black;
+  font-size: 24px;
+}
